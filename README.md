@@ -2,7 +2,7 @@
 A Deep Q Network Learning how to Play Flappy Birds
 
 ## 文件结构
-+ train_tf.py 主要代码文件
++ train_torch.py 主要代码文件
 + assets 游戏所需组件
 + game 游戏代码
 + tensorboard 网络结构log文件
